@@ -1,13 +1,53 @@
+body{
+	background-image: url("/resources/oceano.jpg");
+}
+
 .jumbotron{
-  background-color: white;
+   background-color: rgba(white, 0.10);
+   padding-bottom: 0;
+   padding-top: 0;
 }
 
-.navBar{
-  float: left;
-  display: inline;
+a{
+	text-decoration: none;
+	color: white;
 }
 
-.photo{
-  width: WIDTH/1.7;
+img{
+  width: 100%;
   height: auto;
+}
+
+#name{
+	color: white;
+}
+
+.bio{
+	color: #FFDA40;
+	padding-left: 7px;
+}
+
+footer{
+	text-align: center;
+  color: white;
+  clear: both;
+}
+
+.row{
+	display: inline;
+}
+
+.navBarS{
+  display: inline;
+  li{
+    display: inline-block;
+    a{
+      color: white;
+      text-decoration: none;
+    }
+  }
+}
+
+.imgFit{
+  margin-bottom: 15px;
 }
