@@ -3463,7 +3463,7 @@ input[type=range] + .thumb {
 .row .col {
   float: left;
   box-sizing: border-box;
-  padding: 0 0.75rem;
+  padding: 0rem;
   min-height: 1px;
 }
 
