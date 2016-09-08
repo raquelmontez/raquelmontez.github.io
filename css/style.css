@@ -1,0 +1,27 @@
+#logo-container {
+  color: #444;
+  padding-left: 100px; }
+
+.button-collapse {
+  color: #444; }
+
+#name {
+  font-weight: 200; }
+
+#portfolioWord {
+  font-size: 1.5rem;
+  border-color: white; }
+
+.parallax-container {
+  height: 400px; }
+
+.fit {
+  width: 100%;
+  height: auto; }
+
+.margin0 {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+/*# sourceMappingURL=style.css.map */
